@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanctionlol.sanctionlol&left_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bigwadd.bigwadd&left_color=black"  />
 </div>
 
 ###
 
-<p align="center">Hi 👋, I'm sanction<br><br>A passionate developer from United States<br><br>I am working on Nothing </p>
+<p align="center">Hi 👋, I'm waddle<br><br>A passionate developer from United States<br><br>I am working on Nothing </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanctionlol&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanctionlol&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bigwadd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bigwadd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -68,6 +68,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sanctionlol/sanctionlol/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/bigwadd/bigwadd/output/snake.svg" alt="Snake animation" />
 
 ###
